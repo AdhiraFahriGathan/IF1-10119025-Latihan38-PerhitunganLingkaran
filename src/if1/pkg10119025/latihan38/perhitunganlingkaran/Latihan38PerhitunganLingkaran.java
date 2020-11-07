@@ -10,6 +10,10 @@ import java.util.Scanner;
 /**
  *
  * @author User
+ * * NAMA     : ADHIRA FAHRI GATHAN
+ * KELAS    : PBO
+ * NIM      : 10119025
+ * Deskripsi Program : Program ini berisi tentang Perhitungan Lingkaran
  */
 public class Latihan38PerhitunganLingkaran {
     static Scanner scan = new Scanner(System.in);
